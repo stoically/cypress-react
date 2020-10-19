@@ -1,0 +1,6 @@
+{
+  "fixturesFolder": false,
+  "testFiles": "**/*.spec.tsx",
+  "experimentalComponentTesting": true,
+  "componentFolder": "src"
+}
